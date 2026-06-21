@@ -1,0 +1,20 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "I_COUNTRYTEXT",
+      "ADCP",
+      "ADRC"
+    ],
+    "ASSOCIATED": [
+      "I_ADDRESSEMAILADDRESS",
+      "I_ADDRESSFAXNUMBER",
+      "I_ADDRESSHOMEPAGEURL",
+      "I_ADDRESSPHONENUMBER",
+      "I_CITYCODE",
+      "I_COUNTRY",
+      "I_COUNTYCODE",
+      "I_FORMOFADDRESS",
+      "I_REGION"
+    ]
+  }
+}
